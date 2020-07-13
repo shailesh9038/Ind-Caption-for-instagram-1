@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/valuebtn"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@android:color/transparent"
+        android:text="abc"
+        android:scrollbarSize="2dp"
+        android:fontFamily="@font/rag"
+        android:scrollbars="vertical"
+        android:scrollbarThumbVertical="@color/black"
+        android:textAlignment="center"
+        android:textColor="#000000"
+        android:textSize="14sp"/>
+</LinearLayout>

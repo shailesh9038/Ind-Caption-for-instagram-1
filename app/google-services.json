@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "517734920646",
+    "firebase_url": "https://fast-cleaner-battery-sav-15d55.firebaseio.com",
+    "project_id": "fast-cleaner-battery-sav-15d55",
+    "storage_bucket": "fast-cleaner-battery-sav-15d55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517734920646:android:df8f4298d4f6a27b7a02c7",
+        "android_client_info": {
+          "package_name": "ind.apps.cleaner.mobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517734920646-77f8a22i150b9void7v8r5h0vbo1edmt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ind.apps.cleaner.mobile",
+            "certificate_hash": "12dc6418312d9399ec018e8d45861345f396f603"
+          }
+        },
+        {
+          "client_id": "517734920646-r6kqorb7m961i9ib9rgoeq0ofs5esqno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZhv4WV-ZyFN-mZq5UB9JDFBw-JjR1k5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517734920646-r6kqorb7m961i9ib9rgoeq0ofs5esqno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517734920646:android:84ea20ec621df1b97a02c7",
+        "android_client_info": {
+          "package_name": "ind.apptech.captionsforinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517734920646-3jemlgapnleql4qe8ibu09p6hu0oga29.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ind.apptech.captionsforinstagram",
+            "certificate_hash": "12dc6418312d9399ec018e8d45861345f396f603"
+          }
+        },
+        {
+          "client_id": "517734920646-r6kqorb7m961i9ib9rgoeq0ofs5esqno.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZhv4WV-ZyFN-mZq5UB9JDFBw-JjR1k5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517734920646-r6kqorb7m961i9ib9rgoeq0ofs5esqno.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

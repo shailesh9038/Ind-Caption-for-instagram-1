@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fifteen_sp">15.0sp</dimen>
+    <dimen name="fourteen_sp">14.0sp</dimen>
+    <dimen name="twenty_dp">20.0dip</dimen>
+    <dimen name="two_dp">2.0dip</dimen>
+    <dimen name="two_hundred_dp">200.0dip</dimen>
+    <dimen name="zero">0.0dip</dimen>
+    <dimen name="zero_five">5.0dip</dimen>
+    <dimen name="dimen_ten_dp">10.0dip</dimen>
+    <dimen name="tweleveSp">12.0sp</dimen>
+    <dimen name="fourDp">4.0dip</dimen>
+    <dimen name="six_dp">6.0dip</dimen>
+</resources>
